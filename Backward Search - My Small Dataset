@@ -1,0 +1,84 @@
+➜  Code and Data python3 Project2.py
+Enter dataset to use: 1 for small dataset & 2 for large dataset
+
+1
+Awesome! :D Now choose the algo you want to use: 1 for Forward Search and 2 for Backward Elimination.
+
+2
+On the 1 th level of the search tree
+----Considering removing the 1 feature
+----Considering removing the 2 feature
+----Considering removing the 3 feature
+----Considering removing the 4 feature
+----Considering removing the 5 feature
+----Considering removing the 6 feature
+----Considering removing the 7 feature
+----Considering removing the 8 feature
+----Considering removing the 9 feature
+----Considering removing the 10 feature
+On level 1 i removed feature  7 from current set with accuracy:  0.74
+On the 2 th level of the search tree
+----Considering removing the 1 feature
+----Considering removing the 2 feature
+----Considering removing the 3 feature
+----Considering removing the 4 feature
+----Considering removing the 5 feature
+----Considering removing the 6 feature
+----Considering removing the 8 feature
+----Considering removing the 9 feature
+----Considering removing the 10 feature
+On level 2 i removed feature  8 from current set with accuracy:  0.7666666666666667
+On the 3 th level of the search tree
+----Considering removing the 1 feature
+----Considering removing the 2 feature
+----Considering removing the 3 feature
+----Considering removing the 4 feature
+----Considering removing the 5 feature
+----Considering removing the 6 feature
+----Considering removing the 9 feature
+----Considering removing the 10 feature
+On level 3 i removed feature  10 from current set with accuracy:  0.8066666666666666
+On the 4 th level of the search tree
+----Considering removing the 1 feature
+----Considering removing the 2 feature
+----Considering removing the 3 feature
+----Considering removing the 4 feature
+----Considering removing the 5 feature
+----Considering removing the 6 feature
+----Considering removing the 9 feature
+On level 4 i removed feature  6 from current set with accuracy:  0.8333333333333334
+On the 5 th level of the search tree
+----Considering removing the 1 feature
+----Considering removing the 2 feature
+----Considering removing the 3 feature
+----Considering removing the 4 feature
+----Considering removing the 5 feature
+----Considering removing the 9 feature
+On level 5 i removed feature  1 from current set with accuracy:  0.85
+On the 6 th level of the search tree
+----Considering removing the 2 feature
+----Considering removing the 3 feature
+----Considering removing the 4 feature
+----Considering removing the 5 feature
+----Considering removing the 9 feature
+On level 6 i removed feature  5 from current set with accuracy:  0.9166666666666666
+On the 7 th level of the search tree
+----Considering removing the 2 feature
+----Considering removing the 3 feature
+----Considering removing the 4 feature
+----Considering removing the 9 feature
+On level 7 i removed feature  9 from current set with accuracy:  0.93
+On the 8 th level of the search tree
+----Considering removing the 2 feature
+----Considering removing the 3 feature
+----Considering removing the 4 feature
+On level 8 i removed feature  4 from current set with accuracy:  0.9466666666666667
+On the 9 th level of the search tree
+----Considering removing the 2 feature
+----Considering removing the 3 feature
+On level 9 i removed feature  2 from current set with accuracy:  0.8433333333333334
+On the 10 th level of the search tree
+----Considering removing the 3 feature
+On level 10 i removed feature  3 from current set with accuracy:  0.7966666666666666
+Final output: Feature set =  [2, 3] with accuracy = 0.9466666666666667
+Time taken was : 10.119338035583496 seconds 

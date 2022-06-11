@@ -1,0 +1,940 @@
+➜  Data python3 40Forward.py 
+On the 1 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 2 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 5 feature
+----Considering adding the 6 feature
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----Considering adding the 7 feature
+----Considering adding the 8 feature
+----Considering adding the 9 feature
+----Considering adding the 10 feature
+----Considering adding the 11 feature
+----Considering adding the 12 feature
+----Considering adding the 13 feature
+----Considering adding the 14 feature
+----Considering adding the 15 feature
+----Considering adding the 16 feature
+----Considering adding the 17 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 20 feature
+----Considering adding the 21 feature
+----Considering adding the 22 feature
+----Considering adding the 23 feature
+----Considering adding the 24 feature
+----Considering adding the 25 feature
+----Considering adding the 26 feature
+----Considering adding the 27 feature
+----Considering adding the 28 feature
+----Considering adding the 29 feature
+----Considering adding the 30 feature
+----Considering adding the 31 feature
+----Considering adding the 32 feature
+----Considering adding the 33 feature
+----Considering adding the 34 feature
+----Considering adding the 35 feature
+----Considering adding the 36 feature
+----Considering adding the 37 feature
+----Considering adding the 38 feature
+----Considering adding the 39 feature
+----Considering adding the 40 feature
+On level 1 i added feature  24 to current set with accuracy:  0.841
+On the 2 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 2 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 5 feature
+----Considering adding the 6 feature
+----Considering adding the 7 feature
+----Considering adding the 8 feature
+----Considering adding the 9 feature
+----Considering adding the 10 feature
+----Considering adding the 11 feature
+----Considering adding the 12 feature
+----Considering adding the 13 feature
+----Considering adding the 14 feature
+----Considering adding the 15 feature
+----Considering adding the 16 feature
+----Considering adding the 17 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 20 feature
+----Considering adding the 21 feature
+----Considering adding the 22 feature
+----Considering adding the 23 feature
+----Considering adding the 25 feature
+----Considering adding the 26 feature
+----Considering adding the 27 feature
+----Considering adding the 28 feature
+----Considering adding the 29 feature
+----Considering adding the 30 feature
+----Considering adding the 31 feature
+----Considering adding the 32 feature
+----Considering adding the 33 feature
+----Considering adding the 34 feature
+----Considering adding the 35 feature
+----Considering adding the 36 feature
+----Considering adding the 37 feature
+----Considering adding the 38 feature
+----Considering adding the 39 feature
+----Considering adding the 40 feature
+On level 2 i added feature  2 to current set with accuracy:  0.955
+On the 3 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 5 feature
+----Considering adding the 6 feature
+----Considering adding the 7 feature
+----Considering adding the 8 feature
+----Considering adding the 9 feature
+----Considering adding the 10 feature
+----Considering adding the 11 feature
+----Considering adding the 12 feature
+----Considering adding the 13 feature
+----Considering adding the 14 feature
+----Considering adding the 15 feature
+----Considering adding the 16 feature
+----Considering adding the 17 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 20 feature
+----Considering adding the 21 feature
+----Considering adding the 22 feature
+----Considering adding the 23 feature
+----Considering adding the 25 feature
+----Considering adding the 26 feature
+----Considering adding the 27 feature
+----Considering adding the 28 feature
+----Considering adding the 29 feature
+----Considering adding the 30 feature
+----Considering adding the 31 feature
+----Considering adding the 32 feature
+----Considering adding the 33 feature
+----Considering adding the 34 feature
+----Considering adding the 35 feature
+----Considering adding the 36 feature
+----Considering adding the 37 feature
+----Considering adding the 38 feature
+----Considering adding the 39 feature
+----Considering adding the 40 feature
+On level 3 i added feature  8 to current set with accuracy:  0.943
+On the 4 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 5 feature
+----Considering adding the 6 feature
+----Considering adding the 7 feature
+----Considering adding the 9 feature
+----Considering adding the 10 feature
+----Considering adding the 11 feature
+----Considering adding the 12 feature
+----Considering adding the 13 feature
+----Considering adding the 14 feature
+----Considering adding the 15 feature
+----Considering adding the 16 feature
+----Considering adding the 17 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 20 feature
+----Considering adding the 21 feature
+----Considering adding the 22 feature
+----Considering adding the 23 feature
+----Considering adding the 25 feature
+----Considering adding the 26 feature
+----Considering adding the 27 feature
+----Considering adding the 28 feature
+----Considering adding the 29 feature
+----Considering adding the 30 feature
+----Considering adding the 31 feature
+----Considering adding the 32 feature
+----Considering adding the 33 feature
+----Considering adding the 34 feature
+----Considering adding the 35 feature
+----Considering adding the 36 feature
+----Considering adding the 37 feature
+----Considering adding the 38 feature
+----Considering adding the 39 feature
+----Considering adding the 40 feature
+On level 4 i added feature  13 to current set with accuracy:  0.922
+On the 5 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 5 feature
+----Considering adding the 6 feature
+----Considering adding the 7 feature
+----Considering adding the 9 feature
+----Considering adding the 10 feature
+----Considering adding the 11 feature
+----Considering adding the 12 feature
+----Considering adding the 14 feature
+----Considering adding the 15 feature
+----Considering adding the 16 feature
+----Considering adding the 17 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 20 feature
+----Considering adding the 21 feature
+----Considering adding the 22 feature
+----Considering adding the 23 feature
+----Considering adding the 25 feature
+----Considering adding the 26 feature
+----Considering adding the 27 feature
+----Considering adding the 28 feature
+----Considering adding the 29 feature
+----Considering adding the 30 feature
+----Considering adding the 31 feature
+----Considering adding the 32 feature
+----Considering adding the 33 feature
+----Considering adding the 34 feature
+----Considering adding the 35 feature
+----Considering adding the 36 feature
+----Considering adding the 37 feature
+----Considering adding the 38 feature
+----Considering adding the 39 feature
+----Considering adding the 40 feature
+On level 5 i added feature  35 to current set with accuracy:  0.902
+On the 6 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 5 feature
+----Considering adding the 6 feature
+----Considering adding the 7 feature
+----Considering adding the 9 feature
+----Considering adding the 10 feature
+----Considering adding the 11 feature
+----Considering adding the 12 feature
+----Considering adding the 14 feature
+----Considering adding the 15 feature
+----Considering adding the 16 feature
+----Considering adding the 17 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 20 feature
+----Considering adding the 21 feature
+----Considering adding the 22 feature
+----Considering adding the 23 feature
+----Considering adding the 25 feature
+----Considering adding the 26 feature
+----Considering adding the 27 feature
+----Considering adding the 28 feature
+----Considering adding the 29 feature
+----Considering adding the 30 feature
+----Considering adding the 31 feature
+----Considering adding the 32 feature
+----Considering adding the 33 feature
+----Considering adding the 34 feature
+----Considering adding the 36 feature
+----Considering adding the 37 feature
+----Considering adding the 38 feature
+----Considering adding the 39 feature
+----Considering adding the 40 feature
+On level 6 i added feature  27 to current set with accuracy:  0.878
+On the 7 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 5 feature
+----Considering adding the 6 feature
+----Considering adding the 7 feature
+----Considering adding the 9 feature
+----Considering adding the 10 feature
+----Considering adding the 11 feature
+----Considering adding the 12 feature
+----Considering adding the 14 feature
+----Considering adding the 15 feature
+----Considering adding the 16 feature
+----Considering adding the 17 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 20 feature
+----Considering adding the 21 feature
+----Considering adding the 22 feature
+----Considering adding the 23 feature
+----Considering adding the 25 feature
+----Considering adding the 26 feature
+----Considering adding the 28 feature
+----Considering adding the 29 feature
+----Considering adding the 30 feature
+----Considering adding the 31 feature
+----Considering adding the 32 feature
+----Considering adding the 33 feature
+----Considering adding the 34 feature
+----Considering adding the 36 feature
+----Considering adding the 37 feature
+----Considering adding the 38 feature
+----Considering adding the 39 feature
+----Considering adding the 40 feature
+On level 7 i added feature  23 to current set with accuracy:  0.843
+On the 8 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 5 feature
+----Considering adding the 6 feature
+----Considering adding the 7 feature
+----Considering adding the 9 feature
+----Considering adding the 10 feature
+----Considering adding the 11 feature
+----Considering adding the 12 feature
+----Considering adding the 14 feature
+----Considering adding the 15 feature
+----Considering adding the 16 feature
+----Considering adding the 17 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 20 feature
+----Considering adding the 21 feature
+----Considering adding the 22 feature
+----Considering adding the 25 feature
+----Considering adding the 26 feature
+----Considering adding the 28 feature
+----Considering adding the 29 feature
+----Considering adding the 30 feature
+----Considering adding the 31 feature
+----Considering adding the 32 feature
+----Considering adding the 33 feature
+----Considering adding the 34 feature
+----Considering adding the 36 feature
+----Considering adding the 37 feature
+----Considering adding the 38 feature
+----Considering adding the 39 feature
+----Considering adding the 40 feature
+On level 8 i added feature  9 to current set with accuracy:  0.824
+On the 9 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 5 feature
+----Considering adding the 6 feature
+----Considering adding the 7 feature
+----Considering adding the 10 feature
+----Considering adding the 11 feature
+----Considering adding the 12 feature
+----Considering adding the 14 feature
+----Considering adding the 15 feature
+----Considering adding the 16 feature
+----Considering adding the 17 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 20 feature
+----Considering adding the 21 feature
+----Considering adding the 22 feature
+----Considering adding the 25 feature
+----Considering adding the 26 feature
+----Considering adding the 28 feature
+----Considering adding the 29 feature
+----Considering adding the 30 feature
+----Considering adding the 31 feature
+----Considering adding the 32 feature
+----Considering adding the 33 feature
+----Considering adding the 34 feature
+----Considering adding the 36 feature
+----Considering adding the 37 feature
+----Considering adding the 38 feature
+----Considering adding the 39 feature
+----Considering adding the 40 feature
+On level 9 i added feature  30 to current set with accuracy:  0.817
+On the 10 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 5 feature
+----Considering adding the 6 feature
+----Considering adding the 7 feature
+----Considering adding the 10 feature
+----Considering adding the 11 feature
+----Considering adding the 12 feature
+----Considering adding the 14 feature
+----Considering adding the 15 feature
+----Considering adding the 16 feature
+----Considering adding the 17 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 20 feature
+----Considering adding the 21 feature
+----Considering adding the 22 feature
+----Considering adding the 25 feature
+----Considering adding the 26 feature
+----Considering adding the 28 feature
+----Considering adding the 29 feature
+----Considering adding the 31 feature
+----Considering adding the 32 feature
+----Considering adding the 33 feature
+----Considering adding the 34 feature
+----Considering adding the 36 feature
+----Considering adding the 37 feature
+----Considering adding the 38 feature
+----Considering adding the 39 feature
+----Considering adding the 40 feature
+On level 10 i added feature  21 to current set with accuracy:  0.816
+On the 11 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 5 feature
+----Considering adding the 6 feature
+----Considering adding the 7 feature
+----Considering adding the 10 feature
+----Considering adding the 11 feature
+----Considering adding the 12 feature
+----Considering adding the 14 feature
+----Considering adding the 15 feature
+----Considering adding the 16 feature
+----Considering adding the 17 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 20 feature
+----Considering adding the 22 feature
+----Considering adding the 25 feature
+----Considering adding the 26 feature
+----Considering adding the 28 feature
+----Considering adding the 29 feature
+----Considering adding the 31 feature
+----Considering adding the 32 feature
+----Considering adding the 33 feature
+----Considering adding the 34 feature
+----Considering adding the 36 feature
+----Considering adding the 37 feature
+----Considering adding the 38 feature
+----Considering adding the 39 feature
+----Considering adding the 40 feature
+On level 11 i added feature  5 to current set with accuracy:  0.807
+On the 12 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 6 feature
+----Considering adding the 7 feature
+----Considering adding the 10 feature
+----Considering adding the 11 feature
+----Considering adding the 12 feature
+----Considering adding the 14 feature
+----Considering adding the 15 feature
+----Considering adding the 16 feature
+----Considering adding the 17 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 20 feature
+----Considering adding the 22 feature
+----Considering adding the 25 feature
+----Considering adding the 26 feature
+----Considering adding the 28 feature
+----Considering adding the 29 feature
+----Considering adding the 31 feature
+----Considering adding the 32 feature
+----Considering adding the 33 feature
+----Considering adding the 34 feature
+----Considering adding the 36 feature
+----Considering adding the 37 feature
+----Considering adding the 38 feature
+----Considering adding the 39 feature
+----Considering adding the 40 feature
+On level 12 i added feature  7 to current set with accuracy:  0.798
+On the 13 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 6 feature
+----Considering adding the 10 feature
+----Considering adding the 11 feature
+----Considering adding the 12 feature
+----Considering adding the 14 feature
+----Considering adding the 15 feature
+----Considering adding the 16 feature
+----Considering adding the 17 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 20 feature
+----Considering adding the 22 feature
+----Considering adding the 25 feature
+----Considering adding the 26 feature
+----Considering adding the 28 feature
+----Considering adding the 29 feature
+----Considering adding the 31 feature
+----Considering adding the 32 feature
+----Considering adding the 33 feature
+----Considering adding the 34 feature
+----Considering adding the 36 feature
+----Considering adding the 37 feature
+----Considering adding the 38 feature
+----Considering adding the 39 feature
+----Considering adding the 40 feature
+On level 13 i added feature  33 to current set with accuracy:  0.799
+On the 14 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 6 feature
+----Considering adding the 10 feature
+----Considering adding the 11 feature
+----Considering adding the 12 feature
+----Considering adding the 14 feature
+----Considering adding the 15 feature
+----Considering adding the 16 feature
+----Considering adding the 17 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 20 feature
+----Considering adding the 22 feature
+----Considering adding the 25 feature
+----Considering adding the 26 feature
+----Considering adding the 28 feature
+----Considering adding the 29 feature
+----Considering adding the 31 feature
+----Considering adding the 32 feature
+----Considering adding the 34 feature
+----Considering adding the 36 feature
+----Considering adding the 37 feature
+----Considering adding the 38 feature
+----Considering adding the 39 feature
+----Considering adding the 40 feature
+On level 14 i added feature  22 to current set with accuracy:  0.798
+On the 15 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 6 feature
+----Considering adding the 10 feature
+----Considering adding the 11 feature
+----Considering adding the 12 feature
+----Considering adding the 14 feature
+----Considering adding the 15 feature
+----Considering adding the 16 feature
+----Considering adding the 17 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 20 feature
+----Considering adding the 25 feature
+----Considering adding the 26 feature
+----Considering adding the 28 feature
+----Considering adding the 29 feature
+----Considering adding the 31 feature
+----Considering adding the 32 feature
+----Considering adding the 34 feature
+----Considering adding the 36 feature
+----Considering adding the 37 feature
+----Considering adding the 38 feature
+----Considering adding the 39 feature
+----Considering adding the 40 feature
+On level 15 i added feature  32 to current set with accuracy:  0.795
+On the 16 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 6 feature
+----Considering adding the 10 feature
+----Considering adding the 11 feature
+----Considering adding the 12 feature
+----Considering adding the 14 feature
+----Considering adding the 15 feature
+----Considering adding the 16 feature
+----Considering adding the 17 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 20 feature
+----Considering adding the 25 feature
+----Considering adding the 26 feature
+----Considering adding the 28 feature
+----Considering adding the 29 feature
+----Considering adding the 31 feature
+----Considering adding the 34 feature
+----Considering adding the 36 feature
+----Considering adding the 37 feature
+----Considering adding the 38 feature
+----Considering adding the 39 feature
+----Considering adding the 40 feature
+On level 16 i added feature  20 to current set with accuracy:  0.788
+On the 17 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 6 feature
+----Considering adding the 10 feature
+----Considering adding the 11 feature
+----Considering adding the 12 feature
+----Considering adding the 14 feature
+----Considering adding the 15 feature
+----Considering adding the 16 feature
+----Considering adding the 17 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 25 feature
+----Considering adding the 26 feature
+----Considering adding the 28 feature
+----Considering adding the 29 feature
+----Considering adding the 31 feature
+----Considering adding the 34 feature
+----Considering adding the 36 feature
+----Considering adding the 37 feature
+----Considering adding the 38 feature
+----Considering adding the 39 feature
+----Considering adding the 40 feature
+On level 17 i added feature  6 to current set with accuracy:  0.784
+On the 18 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 10 feature
+----Considering adding the 11 feature
+----Considering adding the 12 feature
+----Considering adding the 14 feature
+----Considering adding the 15 feature
+----Considering adding the 16 feature
+----Considering adding the 17 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 25 feature
+----Considering adding the 26 feature
+----Considering adding the 28 feature
+----Considering adding the 29 feature
+----Considering adding the 31 feature
+----Considering adding the 34 feature
+----Considering adding the 36 feature
+----Considering adding the 37 feature
+----Considering adding the 38 feature
+----Considering adding the 39 feature
+----Considering adding the 40 feature
+On level 18 i added feature  12 to current set with accuracy:  0.778
+On the 19 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 10 feature
+----Considering adding the 11 feature
+----Considering adding the 14 feature
+----Considering adding the 15 feature
+----Considering adding the 16 feature
+----Considering adding the 17 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 25 feature
+----Considering adding the 26 feature
+----Considering adding the 28 feature
+----Considering adding the 29 feature
+----Considering adding the 31 feature
+----Considering adding the 34 feature
+----Considering adding the 36 feature
+----Considering adding the 37 feature
+----Considering adding the 38 feature
+----Considering adding the 39 feature
+----Considering adding the 40 feature
+On level 19 i added feature  15 to current set with accuracy:  0.767
+On the 20 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 10 feature
+----Considering adding the 11 feature
+----Considering adding the 14 feature
+----Considering adding the 16 feature
+----Considering adding the 17 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 25 feature
+----Considering adding the 26 feature
+----Considering adding the 28 feature
+----Considering adding the 29 feature
+----Considering adding the 31 feature
+----Considering adding the 34 feature
+----Considering adding the 36 feature
+----Considering adding the 37 feature
+----Considering adding the 38 feature
+----Considering adding the 39 feature
+----Considering adding the 40 feature
+On level 20 i added feature  26 to current set with accuracy:  0.766
+On the 21 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 10 feature
+----Considering adding the 11 feature
+----Considering adding the 14 feature
+----Considering adding the 16 feature
+----Considering adding the 17 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 25 feature
+----Considering adding the 28 feature
+----Considering adding the 29 feature
+----Considering adding the 31 feature
+----Considering adding the 34 feature
+----Considering adding the 36 feature
+----Considering adding the 37 feature
+----Considering adding the 38 feature
+----Considering adding the 39 feature
+----Considering adding the 40 feature
+On level 21 i added feature  40 to current set with accuracy:  0.77
+On the 22 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 10 feature
+----Considering adding the 11 feature
+----Considering adding the 14 feature
+----Considering adding the 16 feature
+----Considering adding the 17 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 25 feature
+----Considering adding the 28 feature
+----Considering adding the 29 feature
+----Considering adding the 31 feature
+----Considering adding the 34 feature
+----Considering adding the 36 feature
+----Considering adding the 37 feature
+----Considering adding the 38 feature
+----Considering adding the 39 feature
+On level 22 i added feature  34 to current set with accuracy:  0.759
+On the 23 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 10 feature
+----Considering adding the 11 feature
+----Considering adding the 14 feature
+----Considering adding the 16 feature
+----Considering adding the 17 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 25 feature
+----Considering adding the 28 feature
+----Considering adding the 29 feature
+----Considering adding the 31 feature
+----Considering adding the 36 feature
+----Considering adding the 37 feature
+----Considering adding the 38 feature
+----Considering adding the 39 feature
+On level 23 i added feature  14 to current set with accuracy:  0.749
+On the 24 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 10 feature
+----Considering adding the 11 feature
+----Considering adding the 16 feature
+----Considering adding the 17 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 25 feature
+----Considering adding the 28 feature
+----Considering adding the 29 feature
+----Considering adding the 31 feature
+----Considering adding the 36 feature
+----Considering adding the 37 feature
+----Considering adding the 38 feature
+----Considering adding the 39 feature
+On level 24 i added feature  11 to current set with accuracy:  0.749
+On the 25 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 10 feature
+----Considering adding the 16 feature
+----Considering adding the 17 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 25 feature
+----Considering adding the 28 feature
+----Considering adding the 29 feature
+----Considering adding the 31 feature
+----Considering adding the 36 feature
+----Considering adding the 37 feature
+----Considering adding the 38 feature
+----Considering adding the 39 feature
+On level 25 i added feature  17 to current set with accuracy:  0.738
+On the 26 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 10 feature
+----Considering adding the 16 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 25 feature
+----Considering adding the 28 feature
+----Considering adding the 29 feature
+----Considering adding the 31 feature
+----Considering adding the 36 feature
+----Considering adding the 37 feature
+----Considering adding the 38 feature
+----Considering adding the 39 feature
+On level 26 i added feature  28 to current set with accuracy:  0.736
+On the 27 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 10 feature
+----Considering adding the 16 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 25 feature
+----Considering adding the 29 feature
+----Considering adding the 31 feature
+----Considering adding the 36 feature
+----Considering adding the 37 feature
+----Considering adding the 38 feature
+----Considering adding the 39 feature
+On level 27 i added feature  37 to current set with accuracy:  0.737
+On the 28 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 10 feature
+----Considering adding the 16 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 25 feature
+----Considering adding the 29 feature
+----Considering adding the 31 feature
+----Considering adding the 36 feature
+----Considering adding the 38 feature
+----Considering adding the 39 feature
+On level 28 i added feature  29 to current set with accuracy:  0.739
+On the 29 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 10 feature
+----Considering adding the 16 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 25 feature
+----Considering adding the 31 feature
+----Considering adding the 36 feature
+----Considering adding the 38 feature
+----Considering adding the 39 feature
+On level 29 i added feature  36 to current set with accuracy:  0.74
+On the 30 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 10 feature
+----Considering adding the 16 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 25 feature
+----Considering adding the 31 feature
+----Considering adding the 38 feature
+----Considering adding the 39 feature
+On level 30 i added feature  38 to current set with accuracy:  0.738
+On the 31 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 10 feature
+----Considering adding the 16 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 25 feature
+----Considering adding the 31 feature
+----Considering adding the 39 feature
+On level 31 i added feature  39 to current set with accuracy:  0.734
+On the 32 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 10 feature
+----Considering adding the 16 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 25 feature
+----Considering adding the 31 feature
+On level 32 i added feature  31 to current set with accuracy:  0.728
+On the 33 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 10 feature
+----Considering adding the 16 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+----Considering adding the 25 feature
+On level 33 i added feature  25 to current set with accuracy:  0.727
+On the 34 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 10 feature
+----Considering adding the 16 feature
+----Considering adding the 18 feature
+----Considering adding the 19 feature
+On level 34 i added feature  18 to current set with accuracy:  0.723
+On the 35 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 10 feature
+----Considering adding the 16 feature
+----Considering adding the 19 feature
+On level 35 i added feature  19 to current set with accuracy:  0.719
+On the 36 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 10 feature
+----Considering adding the 16 feature
+On level 36 i added feature  3 to current set with accuracy:  0.71
+On the 37 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 4 feature
+----Considering adding the 10 feature
+----Considering adding the 16 feature
+On level 37 i added feature  16 to current set with accuracy:  0.706
+On the 38 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 4 feature
+----Considering adding the 10 feature
+On level 38 i added feature  1 to current set with accuracy:  0.695
+On the 39 th level of the search tree
+----Considering adding the 4 feature
+----Considering adding the 10 feature
+On level 39 i added feature  4 to current set with accuracy:  0.68
+On the 40 th level of the search tree
+----Considering adding the 10 feature
+On level 40 i added feature  10 to current set with accuracy:  0.68
+Final output: Feature set =  [24, 2] with accuracy = 0.955
+FOR LARGE DATASET - 40, FORWARD SEARCH
+Time taken was : 6906.773001194 seconds

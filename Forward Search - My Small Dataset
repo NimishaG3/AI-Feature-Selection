@@ -1,0 +1,84 @@
+➜  Code and Data python3 Project2.py 
+Enter dataset to use: 1 for small dataset & 2 for large dataset
+
+1
+Awesome! :D Now choose the algo you want to use: 1 for Forward Search and 2 for Backward Elimination.
+
+1
+On the 1 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 2 feature
+----Considering adding the 3 feature
+----Considering adding the 4 feature
+----Considering adding the 5 feature
+----Considering adding the 6 feature
+----Considering adding the 7 feature
+----Considering adding the 8 feature
+----Considering adding the 9 feature
+----Considering adding the 10 feature
+On level 1 i added feature  3 to current set with accuracy:  0.8433333333333334
+On the 2 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 2 feature
+----Considering adding the 4 feature
+----Considering adding the 5 feature
+----Considering adding the 6 feature
+----Considering adding the 7 feature
+----Considering adding the 8 feature
+----Considering adding the 9 feature
+----Considering adding the 10 feature
+On level 2 i added feature  2 to current set with accuracy:  0.9466666666666667
+On the 3 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 4 feature
+----Considering adding the 5 feature
+----Considering adding the 6 feature
+----Considering adding the 7 feature
+----Considering adding the 8 feature
+----Considering adding the 9 feature
+----Considering adding the 10 feature
+On level 3 i added feature  4 to current set with accuracy:  0.93
+On the 4 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 5 feature
+----Considering adding the 6 feature
+----Considering adding the 7 feature
+----Considering adding the 8 feature
+----Considering adding the 9 feature
+----Considering adding the 10 feature
+On level 4 i added feature  9 to current set with accuracy:  0.9166666666666666
+On the 5 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 5 feature
+----Considering adding the 6 feature
+----Considering adding the 7 feature
+----Considering adding the 8 feature
+----Considering adding the 10 feature
+On level 5 i added feature  8 to current set with accuracy:  0.8666666666666667
+On the 6 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 5 feature
+----Considering adding the 6 feature
+----Considering adding the 7 feature
+----Considering adding the 10 feature
+On level 6 i added feature  6 to current set with accuracy:  0.8333333333333334
+On the 7 th level of the search tree
+----Considering adding the 1 feature
+----Considering adding the 5 feature
+----Considering adding the 7 feature
+----Considering adding the 10 feature
+On level 7 i added feature  1 to current set with accuracy:  0.81
+On the 8 th level of the search tree
+----Considering adding the 5 feature
+----Considering adding the 7 feature
+----Considering adding the 10 feature
+On level 8 i added feature  5 to current set with accuracy:  0.7666666666666667
+On the 9 th level of the search tree
+----Considering adding the 7 feature
+----Considering adding the 10 feature
+On level 9 i added feature  10 to current set with accuracy:  0.74
+On the 10 th level of the search tree
+----Considering adding the 7 feature
+On level 10 i added feature  7 to current set with accuracy:  0.7066666666666667
+Final output: Feature set =  [3, 2] with accuracy = 0.9466666666666667
+Time taken was : 6.8198137283325195 seconds 
